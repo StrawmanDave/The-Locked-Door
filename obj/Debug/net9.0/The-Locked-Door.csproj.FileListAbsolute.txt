@@ -1,0 +1,15 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\bin\Debug\net9.0\The-Locked-Door.exe
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\bin\Debug\net9.0\The-Locked-Door.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\bin\Debug\net9.0\The-Locked-Door.runtimeconfig.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\bin\Debug\net9.0\The-Locked-Door.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\bin\Debug\net9.0\The-Locked-Door.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\The-Locked-Door.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\The-Locked-Door.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\The-Locked-Door.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\The-Locked-Door.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\The-Locked-Door.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\The-Locked-Door.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\refint\The-Locked-Door.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\The-Locked-Door.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\The-Locked-Door.genruntimeconfig.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Programming-1410\The-Locked-Door\obj\Debug\net9.0\ref\The-Locked-Door.dll
